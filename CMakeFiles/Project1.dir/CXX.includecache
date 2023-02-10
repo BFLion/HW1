@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/JK/Desktop/project1/Node.h
+iostream
+-
+vector
+-
+string
+-
+map
+-
+queue
+-
+sstream
+-
+
+/mnt/c/Users/JK/Desktop/project1/main.cpp
+iostream
+-
+vector
+-
+string
+-
+map
+-
+queue
+-
+sstream
+-
+Node.h
+/mnt/c/Users/JK/Desktop/project1/Node.h
+

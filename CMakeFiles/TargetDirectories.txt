@@ -1,0 +1,3 @@
+/mnt/c/Users/JK/Desktop/project1/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/JK/Desktop/project1/CMakeFiles/edit_cache.dir
+/mnt/c/Users/JK/Desktop/project1/CMakeFiles/Project1.dir
